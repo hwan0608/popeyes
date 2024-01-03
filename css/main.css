@@ -1,0 +1,180 @@
+@charset "utf-8";
+
+#main h3{text-align: center;font-size: 2rem;}
+#main span{text-align: center; color: #FF7300;font-size: 6rem;}
+
+#main_banner{padding-bottom:50px;position: relative;margin-bottom: 50px;}
+#main_banner .mb1{background:url(../images/mb_1.png)center no-repeat;height: 750px;}
+
+#main_banner .mb1 .mb_txt h2{color: #fff;
+padding: 100px 210px 0; font-size: 5rem;text-decoration: solid #000;text-transform: uppercase;text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+animation: mv_txt1 7s infinite;
+}
+#main_banner .mb1 .mb_txt p{color: #fff;
+    padding: 0 400px 0;
+    font-size: 12rem;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;line-height: 1;
+    animation: mv_txt2 7s infinite;
+}
+#main_banner .mb1 .mb_txt .buy a{color: #000;
+    padding: 15px;
+    font-size: 3rem;
+    /* text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; */line-height: 1;
+    font-weight: 800;
+    border: 3px solid #000;
+    position: absolute;left: 150px;top: 600px;
+    font-family: 'Noto Sans KR', sans-serif;
+    border-radius: 50px;
+}
+
+#main_banner .mb1 .mb_txt .buy a:hover{color: #FF7300;background: #fff;transition: background 0.5s, color 0.5s;}
+
+/* #main_banner .mb1 .mb_txt .point img{width: 50px;height: 50px;position: absolute;bottom: 150px;left: 100px;transform: rotate(50deg);} */
+
+
+#main_banner .mb2{background:url(../images/mb_2.png)center no-repeat;height: 750px;}
+#main_banner .mb2 .mb_txt h2{color: #fff;
+    padding: 100px 210px 0; font-size: 11rem;text-decoration: solid #000;text-transform: uppercase;text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    animation: mv_txt1 7s infinite;line-height: 1;font-weight: 400;
+    }
+
+    #main_banner .mb2 .mb_txt h2 span{color: #fff;
+        padding: 100px 210px 0; font-size: 11rem;text-decoration: solid #000;text-transform: uppercase;text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+        animation: mv_txt1 7s infinite;line-height: 1;font-weight: 500;
+        }
+    #main_banner .mb2 .mb_txt p{color: #fff;
+        padding: 200px 200px 0;
+        font-size: 4rem;
+        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;line-height: 1;
+        animation: mv_txt2 7s infinite;
+    }
+    #main_banner .mb2 .mb_txt span{color: #fff;
+        padding-top: 500px;
+        padding-right: 500px;
+        font-size: 4rem;
+        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;line-height: 1;
+        animation: mv_txt2 7s infinite;
+    }
+    #main_banner .mb2 .mb_txt .buy a{
+        font-family: 'Noto Sans KR', sans-serif;color: #fff;
+        padding: 15px;
+        font-size: 3rem;
+        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;line-height: 1;
+        border: 3px solid #fff;
+        position: absolute;left: 150px;top: 600px;
+        border-radius: 50px;
+    }
+    #main_banner .mb2 .mb_txt .buy a:hover{color: #FF7300;background: #fff;transition: background 0.5s, color 0.5s, border 0.5s;border: 3px solid #FF7300;}
+
+#main_banner .mb3{background:url(../images//lunch_event.png)center no-repeat ;height: 750px;}
+#main_banner .mb3 .mb_txt h2{color: #fff;
+    padding: 100px 210px 0; font-size: 11rem;text-decoration: solid #000;text-transform: uppercase;text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    animation: mv_txt1 7s infinite;line-height: 1;/* font-weight: 500; */text-align: center;font-weight: 500;
+    }
+
+    #main_banner .mb3 .mb_txt h2 span{color: #fff;
+        padding: 100px 210px 0; font-size: 11rem;text-decoration: solid #000;text-transform: uppercase;text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+        animation: mv_txt1 7s infinite;line-height: 1;
+        }
+    #main_banner .mb3 .mb_txt p{color: #fff;
+        padding: 200px 200px 0;
+        font-size: 4rem;
+        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;line-height: 1;
+        animation: mv_txt2 7s infinite;text-align: center;}
+        #main_banner .mb3 .mb_txt .buy a{
+            font-family: 'Noto Sans KR', sans-serif;color: #fff;
+            padding: 15px;
+            font-size: 3rem;
+            text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;line-height: 1;
+            border: 3px solid #fff;
+            position: absolute;right: 300px;top: 250px;
+            border-radius: 50px;
+        }
+        #main_banner .mb3 .mb_txt .buy a:hover{color: #FF7300;background: #fff;transition: background 0.5s, color 0.5s;border: 3px solid #FF7300;}
+      
+     
+
+@keyframes mv_txt1{
+    0%{opacity: 0;transform: translate(0,200px);}
+    10%{opacity: 0.5;transform: translate(0,0);}
+    30%{opacity: 1;transform: translate(0,0);}
+    80%{opacity: 1;transform: translate(0,0);}
+    100%{opacity: 1;transform: translate(0,0);}
+}
+
+@keyframes mv_txt2{
+    0%{opacity: 0;transform: translate(0,200px);}
+    15%{opacity: 0;transform: translate(0,200px);}
+    50%{opacity: 1;transform: translate(0,0);}
+    80%{opacity: 1;transform: translate(0,0);}
+    100%{opacity: 1;transform: translate(0,0);}
+}
+
+/* menu */
+#menu h3{
+    /* animation: mv_txt1 7s; */
+    text-align: center;
+    /* font-size: 3rem; */font-family: 'Rock Salt', cursive;}
+    /* #menu h3:hover {transform: translate(50px,100px);} */
+#menu{position: relative;}
+#menu .inner{display: flex;position: relative;height: 1100px;}/* inner에 높이가 없으면 옆으로 늘어나서 스크롤바 두개 생김 */
+#menu h3 span{color: #FF7300;/* font-size: 5rem; */}
+/* #menu h3 span:hover{transform: scale(.5);} */
+#menu p .point{color: #FF7300;}
+#menu .prd_thumb_1{ 
+    background: #FF7300;
+    width: 400px;height: 400px;
+    border-radius: 100px;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+}
+#menu .prd_thumb_1 .txt_1 a{display: block; font-size: 5rem;position: absolute;background: rgba(0, 0, 0, 0.8);color: #fff;width: 400px;height: 400px;border-radius: 100px;text-align: center;top: 0%;padding-top: 150px;line-height: 1;opacity: 0;}
+#menu .prd_thumb_1 .txt_1 a:hover{opacity: 1;transition: opacity 0.5s;box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);}
+#menu .prd_thumb_1 img{/* background: #FF7300;position: absolute;top: 250px; left: 250px;        */width: 100%; align-items: center;}
+#menu .prd_thumb_1 dl{/* padding-top:430px ; */text-align: center;}
+#menu dl dt{font-size: 6rem;line-height: 1;}
+#menu dl dd a{font-size: 2rem;color: #FF7300;}
+#menu .prd_thumb_2{ background: #FF7300;width: 400px;height: 400px;border-radius: 100px;position: absolute;left: 640px;top: 560px;}
+#menu .prd_thumb_2 img{width: 100%;/* position: absolute;left: -40px;bottom: -40px;  */align-items: center;}
+#menu .prd_thumb_2 .txt_2 a{opacity: 0; display: block; font-size: 4.5rem;position: absolute;background: rgba(0, 0, 0, 0.8);color: #fff;width: 400px;height: 400px;border-radius: 100px;text-align: center;top: 0%;padding-top: 150px;}
+#menu .prd_thumb_2 .txt_2 a:hover{opacity: 1;transition: opacity 0.5s;box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);}
+#menu .prd_thumb_2 dl{margin-top: -510px ;text-align: center;}
+#menu .prd_thumb_3{ background: #FF7300;width: 400px;height: 400px;border-radius: 100px;position: absolute;right: 190px;top: 80px;}
+#menu .prd_thumb_3 img{width: 400px;height: 400px; align-items: center;border-radius: 100px;}
+#menu .prd_thumb_3 .txt_3 a{display: block; font-size: 3rem;position: absolute;background: rgba(0, 0, 0, 0.8);color: #fff;width: 400px;height: 400px;border-radius: 100px;text-align: center;top: 0%;padding-top: 150px;opacity: 0;}
+#menu .prd_thumb_3 .txt_3 a:hover{opacity: 1;transition: opacity 0.5s;box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);}
+#menu .prd_thumb_3 dl{padding-top: 30px;text-align: center;}
+
+
+/* notice */
+
+#notice h3{font-family: 'Rock Salt', cursive;}
+#notice .bg{background: url(../images/Popeyes_pattern.jpg) ;}
+#notice .inner{position: relative;height: 1200px;margin-top: 30px;}
+#notice ul{display: flex;gap: 50px;justify-content: center;padding-top: 50px;}
+#notice ul li{width: calc((100% - 50px) / 2);}
+#notice img{width: 100%; /* transition: transform 2s; */}
+#notice .event {border-radius: 50px;overflow: hidden; width: calc(100% - 1250px);transition: transform 1s;}
+#notice .event:hover{transform: translate(-7%,-7%);box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);}
+#notice .history {position: relative; border-radius: 50px;overflow: hidden; width: calc(100% - 1250px);transition: transform 1.5s;}
+#notice .history .txt_2 a{/* background: #000; */ width: 400px;height: 400px; display: block; position: absolute;z-index: 999;color: #fff;top: 0%;right: 0.5%; font-size: 4rem;opacity: 0;border-radius: 50px;text-align: right;padding-top: 25px;padding-right: 50px;}
+#notice .history .txt_2 a:hover{opacity: 1;transition: opacity 1.3s;}
+#notice .history:hover{transform: translate(-7%,-7%);box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);}
+#notice .vd{position: absolute;top: 530px;left: 350px;}
+
+@media (max-width : 1400px){
+
+}
+
+/* story */
+#story h3{font-family: 'Rock Salt', cursive;margin-top: 100px;line-height: 1;}
+#story .inner { max-width: calc(100% - 600px); }
+#story p{text-align: center;font-size: 4rem;margin-bottom: 50px;}
+#story p span{color: #FF7300;font-size: 7rem;}
+#story li video{width: 100%;} 
+#story li { width: calc((100% - 30px) / 2); }
+
+#story ul{justify-content: center; display: flex;gap: 30px;flex-wrap: wrap;}
+
+/*  */

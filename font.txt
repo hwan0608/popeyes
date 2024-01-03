@@ -1,0 +1,5 @@
+
+
+font-family: 'iceSotong-Rg';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/iceSotong-Rg.woff2') format('woff2');
+font-family: 'Noto Sans KR', sans-serif;

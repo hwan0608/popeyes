@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+#main h2{text-align: center;color: #FF7300;font-size: 15rem;padding-top: 50px;font-weight: 300;}
+
+
+#main span{ font-size: 6rem;}
+
+ #intro {background: url("../images/new_bg_1.png")no-repeat center;height: 750px;
+position: relative;}
+ #intro .txt{/* text-align: center; */color:#fff;text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;font-size: 8rem;position: absolute;left: 20%;top: 15%;}
+
+ /* #intro .potato{opacity: 0; position: absolute;left: 500px;bottom: 200px;}
+
+ #intro .potato:hover{opacity: 1; transform: translate(-100px, -100px) scale(1.5,1.5);transition: all 2s;}
+ #intro .bun{opacity: 0; position: absolute;right: 500px;bottom: 350px;}
+
+ #intro .bun:hover{opacity: 1; transform: translate(-100px, -100px) scale(1.5,1.5);transition: all 2s;}
+ */
+/* event */
+
+#event p{text-align: center;}
+
